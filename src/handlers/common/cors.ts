@@ -29,4 +29,5 @@ export function withCors(handler: Handler): Handler {
             }
         };
     }
+    
 }
